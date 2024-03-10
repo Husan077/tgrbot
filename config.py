@@ -1,0 +1,1 @@
+TOKEN = "6873321341:AAF2B6xLQkzWOTr7cSgepMBXuDbEgXCNxME"  #bot token uchun
